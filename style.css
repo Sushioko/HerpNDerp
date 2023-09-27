@@ -1,0 +1,163 @@
+/* Copyright (C) 2007 GNU */
+
+
+/* Monsters */
+
+#monster{
+	color: white;
+	text-shadow: 1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0px 1px 0 #000,
+    0px -1px 0 #000,
+    -1px 0px 0 #000,
+    1px 0px 0 #000,
+    2px 2px 0 #000,
+    -2px 2px 0 #000,
+    2px -2px 0 #000,
+    -2px -2px 0 #000,
+    0px 2px 0 #000,
+    0px -2px 0 #000,
+    -2px 0px 0 #000,
+    2px 0px 0 #000,
+    1px 2px 0 #000,
+    -1px 2px 0 #000,
+    1px -2px 0 #000,
+    -1px -2px 0 #000,
+    2px 1px 0 #000,
+    -2px 1px 0 #000,
+    2px -1px 0 #000,
+    -2px -1px 0 #000;
+
+}
+.monsters{
+  margin-top: 60px;
+  color: black;
+  border-radius: 12px;
+  border: 2px solid #000000;
+  background-color: white;
+	font-weight: bold;
+}
+.monsters:active{ 
+   background-color: #D3D3D3;
+}
+/* Monsters */
+
+/* Attack */
+.attackButton{
+  margin-top: 60px;
+  color: red;
+  border-radius: 12px;
+  border: 2px solid #000000;
+  background-color: white;
+	font-weight: bold;
+}
+.attackButton:active{ 
+   background-color: #D3D3D3;
+}
+/* Attack */
+
+/* Save */
+
+.saveButton {
+  margin-top: 60px;
+  color: green;
+  border-radius: 12px;
+  opacity: 0.7;
+  cursor: not-allowed;
+  border: 2px solid #000000;
+	font-weight: bold;
+}
+
+/* Save */
+
+/* Extras */
+
+.version{
+	color: white;
+	text-shadow: 0px 0px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0px 1px 0 #000,
+    0px -1px 0 #000,
+    -1px 0px 0 #000,
+    1px 0px 0 #000,
+    2px 2px 0 #000,
+    -2px 2px 0 #000,
+    2px -2px 0 #000,
+    -2px -2px 0 #000,
+    0px 2px 0 #000,
+    0px -2px 0 #000,
+    -2px 0px 0 #000,
+    2px 0px 0 #000,
+    1px 2px 0 #000,
+    -1px 2px 0 #000,
+    1px -2px 0 #000,
+    -1px -2px 0 #000,
+    2px 1px 0 #000,
+    -2px 1px 0 #000,
+    2px -1px 0 #000,
+    -2px -1px 0 #000;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+#game{
+  text-align: center;
+	color: white;
+	text-shadow: 1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0px 1px 0 #000,
+    0px -1px 0 #000,
+    -1px 0px 0 #000,
+    1px 0px 0 #000,
+    2px 2px 0 #000,
+    -2px 2px 0 #000,
+    2px -2px 0 #000,
+    -2px -2px 0 #000,
+    0px 2px 0 #000,
+    0px -2px 0 #000,
+    -2px 0px 0 #000,
+    2px 0px 0 #000,
+    1px 2px 0 #000,
+    -1px 2px 0 #000,
+    1px -2px 0 #000,
+    -1px -2px 0 #000,
+    2px 1px 0 #000,
+    -2px 1px 0 #000,
+    2px -1px 0 #000,
+    -2px -1px 0 #000;
+	padding-top: 100px;
+}
+
+.redText{
+  color: red;
+}
+body{
+    width: 100%;
+    height: 100%;
+	  background: black;
+    background-image:url(https://i.imgur.com/hh9d7TA.png);
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+}
+.player{
+   color: white;
+}
+
+.gnu{
+	color: white;
+	text-shadow: 1px 1px 0 #d3d3d3;
+	position: absolute;
+	bottom: 0; 
+  left: 0; 
+  z-index: 0;
+}
+/* Extras */
