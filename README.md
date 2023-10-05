@@ -23,6 +23,7 @@ Made for the SurfNChirp Community
 **All bugs can be fixed by reloading**
 
 - Background Image not Displaying **2%** *(Not Fixed)*
+- Fullscreen background not Resizing **100%** *(Not Fixed)*
 - Stuck on loading screen **8%** *(Not Fixed)*
 - Game Displays Nothing **92%** *(Fixed)*
 - CSS Not Working **16%** *(Unknown)*
