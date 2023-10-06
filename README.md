@@ -28,3 +28,4 @@ Made for the SurfNChirp Community
 - Game Displays Nothing **92%** *(Fixed)*
 - CSS Not Working **16%** *(Unknown)*
 - JS Not Working **100%** *(Fixed)*
+- Computer Freezes **1%** *(Not Fixed)*
